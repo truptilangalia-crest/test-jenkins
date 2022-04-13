@@ -2,7 +2,6 @@ import base64
 import json
 import ssl
 import yaml
-import requests
 
 
 class GitSecurityContent:
